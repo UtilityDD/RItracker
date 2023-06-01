@@ -1,0 +1,21 @@
+[data-page=".global_menu"][data-itemid="welcome_item"] > .bs-welcome-header {
+  background-color: #72dd55;
+}
+[data-page=".global_menu"][data-itemid="welcome_item1"] > .bs-welcome-header {
+  background-color: #f220a2;
+}
+[data-page=".global_menu"][data-itemid="welcome_item2"] > .bs-welcome-header {
+  background-color: #6ba1e1;
+}
+[data-page=".global_menu"][data-itemid="menu"] > .nav {
+  background-color: #ecfcf2;
+}
+[data-page=".global_menu"][data-itemid="menu"] > .nav > * > a {
+  color: #000000;
+  font-weight: bold;
+}
+[data-page=".global_menu"][data-itemid="RI Tracker"] {
+  background-color: #b2e1ed;
+}
+
+
